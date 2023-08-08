@@ -103,4 +103,3 @@ The final dataset to train the model with has new columns such as if the loan wa
 <img src="img/nn_report.jpeg" width="400" /> <img src="img/nn_roc.jpeg" width="400" />
 
 
-# Loan_Prediction
